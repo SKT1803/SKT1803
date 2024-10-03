@@ -10,9 +10,6 @@
 <p>I like solving problems, creating algorithms and learning new things.</p>
 <br>
 
-<h2>Technical Skills</h2>
-
-
 
 <h2>Connect With Me 🤝</h2>
 
@@ -35,4 +32,18 @@
 
 </div>
 <br/>
+
+
+<h2>Technical Skills</h2>
+
+<div>
+    <p>Scripting languages</p>
+    <img src="https://github.com/user-attachments/assets/daded5bd-e733-4122-a533-12a326fb779c" alt="Java" width=30px/>
+</div>
+
+<h2>Currently Learning </h2>
+
+
+
+<h2>Latest Project</h2>
 

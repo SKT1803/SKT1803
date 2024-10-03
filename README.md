@@ -1,6 +1,6 @@
-<h2>Hi, I'm Serdar Kemal Topkaya 🖐</h1>
-<h4>Computer Engineer</h3>
-<h4>Currently a student at &nbsp;&nbsp;<a href="https://www.tedu.edu.tr/en" target="_blank"><img align="center" 
+<h1>Hi, I'm Serdar Kemal Topkaya 🖐</h1>
+<h3>Computer Engineer</h3>
+<h3>Currently a student at &nbsp;&nbsp;<a href="https://www.tedu.edu.tr/en" target="_blank"><img align="center" 
                                                                                      src="https://github.com/user-attachments/assets/db7d023a-d312-4490-b115-21f0b0ec9e76"
                                                                                      width= "75px"/></a></h3>
 <br>
@@ -9,11 +9,11 @@
 <p>I am a <b>Full Stack Developer✔ Machine Learning and AI Enthusiast 👍</b></p>
 <p>I like solving problems, creating algorithms and learning new things.</p>
 <br>
-<h2>Technical Skills</h1>
+<h1>Technical Skills</h1>
 
 
 
-<h2>Connect With Me 🤝</h1>
+<h1>Connect With Me 🤝</h1>
 
 <div align="center">
 

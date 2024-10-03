@@ -18,26 +18,19 @@
 <div align="center">
 
 <a href="" target="_blank">
-<img src="https://github.com/user-attachments/assets/80f55211-e7f6-4cb8-8370-bf05f38281a5" width=50px alt="linkedin"/>
-&nbsp;&nbsp;&nbsp;</a>
-
+<img src="https://github.com/user-attachments/assets/80f55211-e7f6-4cb8-8370-bf05f38281a5" width=50px alt="linkedin"/></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/SKT1803" target="_blank">
-<img src="https://github.com/user-attachments/assets/a40c8f7b-c976-4b17-94c2-49d5ffa80780" width=50px alt="SKT1803"/>
-&nbsp;&nbsp;&nbsp;</a>
-
+<img src="https://github.com/user-attachments/assets/a40c8f7b-c976-4b17-94c2-49d5ffa80780" width=50px alt="SKT1803"/></a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:skemalt@outlook.com" target="_blank">
-<img src="https://github.com/user-attachments/assets/c1c2b734-a488-42a0-bf14-8981da13cfa3" width=50px alt="skemalt@outlook.com" />
-&nbsp;&nbsp;&nbsp;</a>
-
+<img src="https://github.com/user-attachments/assets/c1c2b734-a488-42a0-bf14-8981da13cfa3" width=50px alt="skemalt@outlook.com" /></a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:serdarkemal123456@gmail.com" target="_blank">
-<img src="https://github.com/user-attachments/assets/47a1d007-4e41-4d08-b28e-bad72cb6b32f" width=50px alt="serdarkemal123456@gmail.com"/>
-&nbsp;&nbsp;&nbsp;</a>
-
+<img src="https://github.com/user-attachments/assets/47a1d007-4e41-4d08-b28e-bad72cb6b32f" width=50px alt="serdarkemal123456@gmail.com"/></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/" target="_blank">
-<img src="https://github.com/user-attachments/assets/93819371-5e5d-4781-8fe6-13c83fcf8a58" width=50px alt=""/>
-&nbsp;&nbsp;&nbsp;</a>
-
-<a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="50px" /></a>
+<img src="https://github.com/user-attachments/assets/93819371-5e5d-4781-8fe6-13c83fcf8a58" width=50px alt=""/></a>
 
 </div>
 <br/>

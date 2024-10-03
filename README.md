@@ -33,13 +33,20 @@
 </div>
 <br/>
 
-
 <h2>Technical Skills</h2>
 
-<div>
-    <p>Scripting languages</p>
-    <img src="https://github.com/user-attachments/assets/daded5bd-e733-4122-a533-12a326fb779c" alt="Java" width=30px/>
+<div align="left">
+    <p>Scripting languages</p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bre>
+    <img src="https://github.com/user-attachments/assets/daded5bd-e733-4122-a533-12a326fb779c" alt="Java" width=30px/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/c112e64d-d189-4b5b-8f3a-49a5b4a2bc2b" alt="Python" width=30px>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/a630340a-8e76-4d64-a7d0-8a19b0b8b014" alt="C" width=30px>&nbsp;&nbsp;&nbsp;
 </div>
+
+<div align="left">
+    <p>Scripting languages</p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<bre>
+    <img src="https://github.com/user-attachments/assets/309dd3ca-417e-4e1d-babb-c979954a27b4" alt="HTML" width=40px/>&nbsp;&nbsp;&nbsp;
+</div>
+      
 
 <h2>Currently Learning </h2>
 

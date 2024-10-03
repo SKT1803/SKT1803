@@ -6,5 +6,7 @@
 <br>
 
 
-<h2>FullStack Developer --- AI-ML Engineer</h2>
+<p>I am a <b>Full Stack Developer✔ Machine Learning and AI Enthusiast 👍</b></p>
+<p>I like solving problems, creating algorithms and learning new things.</p>
+
 

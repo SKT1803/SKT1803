@@ -43,12 +43,20 @@
 </div><br>
 
 <div align="left">
-    <p>Scripting Languages</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>Web Development</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/309dd3ca-417e-4e1d-babb-c979954a27b4" alt="HTML" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/1ced2f2a-488f-4d2f-8036-2bca576c5d17" alt="CSS" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/43d3eeae-c10c-4dd6-8085-b64c1b612aa4" alt="JavaScript" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/b8e7de3d-8dd1-40b4-b6a6-e7a95f91db31" alt="React" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/010e07fc-1e84-4056-bff7-6c4106c070fa" alt="Nextjs" width=40px/>&nbsp;&nbsp;&nbsp;
+</div><br>
+
+<div align="left">
+    <p>Machine Learning & Data Science Libraries</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/d9de115b-6b79-456d-a556-c196ae9e535e" alt="NumPy" width=40px/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/49aace7e-9ac2-4588-aca9-1e9324d5138e" alt="Pandas" width=40px/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/8253b170-9dfb-4e5c-ae3d-a6ad0c9673a4" alt="Tensorflow" width=40px/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/b6165283-c841-4324-a6ed-93466f5617ff" alt="Keras" width=40px/>&nbsp;&nbsp;&nbsp;
 </div><br>
 
 <div align="left">

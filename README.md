@@ -36,23 +36,26 @@
 <h2>Technical Skills</h2>
 
 <div align="left">
-    <img src="https://github.com/user-attachments/assets/daded5bd-e733-4122-a533-12a326fb779c" alt="Java" width=40px/>&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/c112e64d-d189-4b5b-8f3a-49a5b4a2bc2b" alt="Python" width=40px>&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/user-attachments/assets/a630340a-8e76-4d64-a7d0-8a19b0b8b014" alt="C" width=40px>&nbsp;&nbsp;&nbsp;
-</div>
+    <p>Scripting Languages</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/user-attachments/assets/daded5bd-e733-4122-a533-12a326fb779c" alt="Java" width=40px/>&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/user-attachments/assets/c112e64d-d189-4b5b-8f3a-49a5b4a2bc2b" alt="Python" width=40px>&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/user-attachments/assets/a630340a-8e76-4d64-a7d0-8a19b0b8b014" alt="C" width=40px>&nbsp;&nbsp;&nbsp;
+</div><br>
 
 <div align="left">
+    <p>Scripting Languages</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/309dd3ca-417e-4e1d-babb-c979954a27b4" alt="HTML" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/1ced2f2a-488f-4d2f-8036-2bca576c5d17" alt="CSS" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/43d3eeae-c10c-4dd6-8085-b64c1b612aa4" alt="JavaScript" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/b8e7de3d-8dd1-40b4-b6a6-e7a95f91db31" alt="React" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/010e07fc-1e84-4056-bff7-6c4106c070fa" alt="Nextjs" width=40px/>&nbsp;&nbsp;&nbsp;
-</div>
+</div><br>
 
 <div align="left">
+    <p>Databases</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/f6ee6460-0a42-400f-bfb8-88c9524d2fea" alt="MongoDB" width=40px/>&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/cd497009-16c8-4fb8-86f1-07b3aa78561c" alt="MySQL" width=40px/>&nbsp;&nbsp;&nbsp;
-</div>
+</div><br>
 
 <h2>Currently Learning </h2>
 

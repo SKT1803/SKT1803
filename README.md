@@ -40,9 +40,11 @@
     <p>Scripting Languages</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/user-attachments/assets/daded5bd-e733-4122-a533-12a326fb779c" alt="Java" width=40px/>&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/user-attachments/assets/c112e64d-d189-4b5b-8f3a-49a5b4a2bc2b" alt="Python" width=40px>&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/user-attachments/assets/a630340a-8e76-4d64-a7d0-8a19b0b8b014" alt="C" width=40px>&nbsp;&nbsp;&nbsp;
-       <img src="https://github.com/user-attachments/assets/8f46f9cd-7bb7-44be-b609-d11ecdbb907d" alt="C" width=40px>&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/user-attachments/assets/8f46f9cd-7bb7-44be-b609-d11ecdbb907d" alt="C" width=40px>&nbsp;&nbsp;&nbsp;
 </div><br>
+
+
+
 
 
 

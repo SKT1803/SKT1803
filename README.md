@@ -72,7 +72,10 @@
 </div><br>
 
 <h2>Currently Learning </h2>
-
+<ul>
+    <li>To improve my deep learning knowledge I'm learning <b>PyTorch</b></li>
+    <li>I'm learning <b>HTML Canvas</b> so I can design more effective webpages.</li>
+</ul>
 
 
 

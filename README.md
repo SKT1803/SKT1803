@@ -87,4 +87,8 @@ JavaScript, React Framework & CSS
 <hr>
 Voice command operated calculator. There will be a calculator in the webpage, and it will use a model trained with different voices.<br><br>
 It will be able to do basic calculations, integration and derivative operations.
-
+<br><br>
+Languages,<br>
+JavaScript, React Framework & CSS<br>
+SpeechRecognition (Python Library)<br>
+Whisper by OpenAI <br>

@@ -22,8 +22,10 @@
 <img src="https://github.com/user-attachments/assets/a40c8f7b-c976-4b17-94c2-49d5ffa80780" width=40px alt="SKT1803"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/SKT1803" target="_blank">
-<img src="https://github.com/user-attachments/assets/46daab67-b795-4c17-8e00-60cd1460d666" width=40px alt="SKT1803"/></a>
+<img src="https://github.com/user-attachments/assets/ee5c8183-11ce-472c-8c36-48a87c9bd7c1" width=40px alt="SKT1803"/></a>
 &nbsp;&nbsp;&nbsp;
+
+
 <a href="mailto:skemalt@outlook.com" target="_blank">
 <img src="https://github.com/user-attachments/assets/c1c2b734-a488-42a0-bf14-8981da13cfa3" width=40px alt="skemalt@outlook.com" /></a>
 &nbsp;&nbsp;&nbsp;

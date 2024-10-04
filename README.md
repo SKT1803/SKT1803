@@ -76,7 +76,8 @@
     <li>To improve my deep learning knowledge I'm learning <b>PyTorch</b></li>
     <li>I'm learning <b>HTML Canvas</b> so I can design more effective webpages.</li>
 </ul>
-
+<br>
+<br>
 <h2>Latest Projects, Currently Working On</h2>
 
 As time passes on the digital clock, the background changes to what it looks like at that time of day.<br>

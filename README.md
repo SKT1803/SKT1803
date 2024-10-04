@@ -27,7 +27,8 @@
 <img src="https://github.com/user-attachments/assets/47a1d007-4e41-4d08-b28e-bad72cb6b32f" width=40px alt="serdarkemal123456@gmail.com"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/" target="_blank">
-<img src="https://github.com/user-attachments/assets/5d0316cd-7cd4-49c6-8fb4-8df9127c980d" width=40px alt="instagram"/></a>
+<img src="https://github.com/user-attachments/assets/8d29c1d7-1b46-4450-baf0-f794e4bcd182" width=40px alt="instagram"/></a>
+
 
 
 </div>

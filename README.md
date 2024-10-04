@@ -85,4 +85,6 @@ I am using my digital clock project for this. <br><br>
 Languages,<br>
 JavaScript, React Framework & CSS
 <hr>
+Voice command operated calculator. There will be a calculator in the webpage, and it will use a model trained with different voices.<br><br>
+It will be able to do basic calculations, integration and derivative operations.
 

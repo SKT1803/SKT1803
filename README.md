@@ -77,7 +77,7 @@
     <li>I'm learning <b>HTML Canvas</b> so I can design more effective webpages.</li>
 </ul>
 
-<h2>Latest Project</h2>
+<h2>Latest Projects, Currently Working On</h2>
 
 As time passes on the digital clock, the background changes to what it looks like at that time of day.<br>
 <img align="right" src="https://github.com/user-attachments/assets/908a199d-bd88-40c9-bb9f-54b23ce279e0" width=200px/><br>

@@ -62,7 +62,13 @@ I enjoy:
 
 ### 🔹 [Mesajla - Real Time Chatting Application](https://github.com/yourusername/black-friday-sales-prediction)
 Real time chatting application where you can choose your reply to your contact's message with one of the ai generated options if you want. 
-**Tech:** React, Python, Flask, Pytorch, MongoDB, Firebase
+**Tech:** 
+- React 
+- Python
+- Flask
+- Pytorch
+- MongoDB
+- Firebase
 ---
 
 <!--

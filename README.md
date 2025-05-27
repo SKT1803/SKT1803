@@ -69,7 +69,16 @@ Real time chatting application where you can choose your reply to your contact's
 - Pytorch
 - MongoDB
 - Firebase
----
+
+<table>
+  <tr>
+    <td><img src="images/p1.png" width="800"></td>
+  </tr>
+  <tr>
+    <td><img src="images/p2.png" width="800"></td>
+  </tr>
+</table>
+
 
 <!--
 ## 📈 GitHub Stats

@@ -65,9 +65,10 @@ Predicting sales using regression models (Linear, Ridge, Lasso, Polynomial).
 **Tech:** Python, scikit-learn, Pandas, NumPy
 ---
 
+<!--
 ## 📈 GitHub Stats
 
 ![Serdar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKT1803&show_icons=true&theme=default)
 
-
+-->
 

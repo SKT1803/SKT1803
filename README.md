@@ -16,11 +16,23 @@ I enjoy:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-- [LinkedIn (SKT1803)](https://www.linkedin.com/in/skt1803)
-- 📧 Email: skemalt@outlook.com | serdarkemal123456@gmail.com  
-- 📸 Instagram: *@your_handle_here*
+<p align="left">
+  <a href="" target="_blank">
+    <img src="images/linkedIn.png" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="mailto:skemalt@outlook.com" target="_blank">
+    <img src="images/outlook.png" alt="Outlook Email" width="40" height="40">
+  </a>
+  <a href="mailto:serdarkemal123456@gmail.com" target="_blank">
+    <img src="images/gmail.png" alt="Gmail" width="40" height="40">
+  </a>
+  <a href="" target="_blank">
+    <img src="images/instagram.png" alt="Instagram" width="40" height="40">
+  </a>
+</p>
+
 
 ---
 

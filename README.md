@@ -60,9 +60,9 @@ I enjoy:
 
 ## Latest Project
 
-### 🔹 [Black Friday Sales Prediction](https://github.com/yourusername/black-friday-sales-prediction)
-Predicting sales using regression models (Linear, Ridge, Lasso, Polynomial).  
-**Tech:** Python, scikit-learn, Pandas, NumPy
+### 🔹 [Mesajla - Real Time Chatting Application](https://github.com/yourusername/black-friday-sales-prediction)
+Real time chatting application where you can choose your reply to your contact's message with one of the ai generated options if you want. 
+**Tech:** React, Python, Flask, Pytorch, MongoDB, Firebase
 ---
 
 <!--

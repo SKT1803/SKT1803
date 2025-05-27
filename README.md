@@ -2,7 +2,7 @@
 
 <pre> 
 Computer Engineering Student                                                                                   
-Full Stack Developer | Machine Learning & AI Enthusiast                              
+Full Stack Developer | Machine Learning & AI Enthusiast
 </pre>
 ---
 

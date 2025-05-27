@@ -2,6 +2,11 @@
 🎓 Computer Engineering Student  
 💻 Full Stack Developer | 🤖 Machine Learning & AI Enthusiast  
 
+<table>
+  <tr>
+    <td>Currently a student at <img src="images/TED.png" width="100px"></td>
+  </tr>
+</table>
 <h4>Currently a student at &nbsp;&nbsp;<a href="https://www.tedu.edu.tr/en" target="_blank"><img align="center" 
                                                                                      src="https://github.com/user-attachments/assets/db7d023a-d312-4490-b115-21f0b0ec9e76"
                                                                                      width= "75px"/></a></h3>

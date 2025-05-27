@@ -21,13 +21,13 @@ I enjoy:
 <p align="left">
   <a href="" target="_blank">
     <img src="images/linkedIn.png" alt="LinkedIn" width="40" height="40">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:skemalt@outlook.com" target="_blank">
     <img src="images/outlook.png" alt="Outlook Email" width="40" height="40">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:serdarkemal123456@gmail.com" target="_blank">
     <img src="images/gmail.png" alt="Gmail" width="40" height="40">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="" target="_blank">
     <img src="images/instagram.png" alt="Instagram" width="40" height="40">
   </a>

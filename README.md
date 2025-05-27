@@ -55,6 +55,11 @@ I enjoy:
 ### Databases
 - MongoDB
 - MySQL
+- PostgreSQL
+
+### DevOps / Containerization - Tools & Environments
+- Docker
+- Oracle Linux
 
 ---
 

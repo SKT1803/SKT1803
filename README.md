@@ -67,19 +67,26 @@ I enjoy:
 
 ### 🔹 [Mesajla - Real Time Chatting Application](https://github.com/SKT1803/mesajla-real-time-ai-powered-chat-application)
 Real time chatting application where you can choose your reply to your contact's message with one of the ai generated options if you want. 
-**Tech:** 
-- React 
-- Python
-- Flask
-- Pytorch
-- MongoDB
-- Firebase
 
 <table>
   <tr>
-    <td><img src="images/p1.png" width="500"></td>
+    <td>
+       <h3>Tech:</h3>
+    <ul>
+        <li>React</li>
+        <li>Python</li>
+        <li>Flask</li>
+        <li>Pytorch</li>
+        <li>MongoDB</li>
+        <li>Firebase</li>
+      </ul>
+     </td>
+  <td><img src="images/p1.png" width="900"></td>
+    
   </tr>
+  
 </table>
+
 
 
 <!--

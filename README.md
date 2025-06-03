@@ -81,10 +81,7 @@ Real time chatting application where you can choose your reply to your contact's
         <li>Firebase</li>
       </ul>
      </td>
-  <td><img src="images/p1.png" width="900"></td>
-  ![image](https://github.com/user-attachments/assets/0d724070-fb5d-4958-9767-ece2183fbb5d)
-
-    
+  <td><img src="images/p1.png" width="900"></td>    
   </tr>
   
 </table>

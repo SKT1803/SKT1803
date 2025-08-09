@@ -49,6 +49,7 @@ I enjoy:
     - React
 - Backend
     - Node.js
+    - Go / Golang
 
 ### Machine Learning & Data Science
 - NumPy, Pandas

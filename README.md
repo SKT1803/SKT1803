@@ -44,8 +44,11 @@ I enjoy:
 - C
 
 ### Web Development
-- HTML, CSS + Tailwind, JavaScript  
-- React
+- Frontend
+    - HTML, CSS + Tailwind, JavaScript  
+    - React
+- Backend
+    - Node.js
 
 ### Machine Learning & Data Science
 - NumPy, Pandas

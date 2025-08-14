@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Serdar Kemal Topkaya  
 
 <pre> 
-Computer Engineering Student
+Computer Engineer
 Full Stack Developer | Machine Learning & AI Enthusiast
 </pre>
 ---

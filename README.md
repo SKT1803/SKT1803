@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Serdar Kemal Topkaya  
 
-<pre>Software Engineer
-Full Stack Developer | Machine Learning &amp; AI Enthusiast</pre>
-
 <p> Software Engineer<br/> Full Stack Developer | Machine Learning &amp; AI Enthusiast </p>
 
 ## About Me

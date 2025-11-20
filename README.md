@@ -10,7 +10,8 @@ I enjoy:
 - Exploring AI, machine learning, and deep learning technologies  
 - Continuously learning and building impactful projects  
 
-
+> You can also explore my work in more detail on my personal portfolio website:  
+> **[Visit my portfolio](https://your-portfolio-url.com)**
 
 ## Connect With Me
 

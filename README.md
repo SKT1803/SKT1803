@@ -11,7 +11,7 @@ I enjoy:
 - Continuously learning and building impactful projects  
 
 > You can also explore my work in more detail on my personal portfolio website:  
-> **👉 [Visit my portfolio]([https://your-portfolio-url.com](https://serdarkemaltopkaya.vercel.app/))**
+> **👉 [Visit my portfolio]([https://your-portfolio-url.com](https://serdarkemaltopkaya.vercel.app/)**
 
 ## Connect With Me
 

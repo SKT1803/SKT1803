@@ -68,6 +68,8 @@ I enjoy:
 
 ## Latest Project
 
+<!--
+
 ### [Mesajla - Real Time Chatting Application](https://github.com/SKT1803/mesajla-real-time-ai-powered-chat-application)
 Real time chatting application where you can choose your reply to your contact's message with one of the ai generated options if you want. 
 
@@ -88,6 +90,7 @@ Real time chatting application where you can choose your reply to your contact's
   </tr>
   
 </table>
+-->
 
 
 

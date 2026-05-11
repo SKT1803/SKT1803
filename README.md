@@ -4,12 +4,15 @@
 
 
 # 👋 Hi, I'm Serdar Kemal Topkaya  
-
+<!--
 <p> Software Engineer </p>
+-->
 <!--
 <p> Software Engineer<br/> Full Stack Developer | Machine Learning &amp; AI Enthusiast </p>
 -->
-<!--
+<p>
+  Software Engineer · Full Stack Developer · AI & ML Enthusiast
+</p>
 
 <h1 align="center">👋 Hi, I'm Serdar Kemal Topkaya</h1>
 
@@ -112,7 +115,7 @@ I enjoy:
 ![Oracle Linux](https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge)
 
 
-## Latest Project
+## Featured Project
 
 <!--
 

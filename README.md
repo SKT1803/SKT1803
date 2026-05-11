@@ -36,9 +36,11 @@ I enjoy:
 
 <table>
   <tr>
-    <td width="35%" valign="middle">
+    <td width="30%" valign="middle">
 
-<p align="center"> Explore more of my work on my portfolio website. </p>
+<p align="center">
+  Take a closer look at my projects, ideas, and work through my portfolio website.
+</p>
 
 <h3 align="center">
   <sub>── ✦</sub>

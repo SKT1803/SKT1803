@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github-banner.gif" alt="GitHub Banner" width="100%" />
+  <img src="images/github-banner-cover-1000x340.gif" alt="GitHub Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Serdar Kemal Topkaya  

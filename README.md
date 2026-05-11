@@ -5,8 +5,10 @@
 
 # 👋 Hi, I'm Serdar Kemal Topkaya  
 
+<p> Software Engineer </p>
+<!--
 <p> Software Engineer<br/> Full Stack Developer | Machine Learning &amp; AI Enthusiast </p>
-
+-->
 <!--
 
 <h1 align="center">👋 Hi, I'm Serdar Kemal Topkaya</h1>

@@ -27,8 +27,35 @@ I enjoy:
 - Exploring AI, machine learning, and deep learning technologies  
 - Continuously learning and building impactful projects  
 
+<!--
 > You can also explore my work in more detail on my personal portfolio website:  
 > **👉 [Visit my portfolio](https://serdarkemaltopkaya.vercel.app/)**
+-->
+
+## Portfolio
+
+<table>
+  <tr>
+    <td width="35%" valign="middle">
+
+<p align="center"> Explore more of my work on my portfolio website. </p>
+
+<h3 align="center">
+  <sub>── ✦</sub>
+  <strong>
+    <a href="https://serdarkemaltopkaya.vercel.app/">Explore Portfolio</a>
+  </strong>
+  <sub>✦ ──</sub>
+</h3>
+
+   </td>
+    <td width="65%" valign="top">
+      <a href="https://serdarkemaltopkaya.vercel.app/">
+        <img src="images/portfolio-from-video-900w.gif" alt="Portfolio Preview" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Connect With Me
 

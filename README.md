@@ -14,14 +14,6 @@
   Software Engineer · Full Stack Developer · AI & ML Enthusiast
 </p>
 
-<h1 align="center">👋 Hi, I'm Serdar Kemal Topkaya</h1>
-
-<p align="center">
-  Software Engineer<br/>
-  Full Stack Developer | Machine Learning &amp; AI Enthusiast
-</p>
--->
-
 ## About Me
 
 I enjoy:

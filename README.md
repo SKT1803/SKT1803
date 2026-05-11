@@ -140,9 +140,11 @@ Lightweight notebook-style Python runner for Python learning and data science, a
 <!--
 **Download / Setup:** [Setup Link](https://github.com/SKT1803/pylab-installer/releases/tag/pylab-v1.1.1)
 -->
-**Website:** [Visit PyLab](https://pylab-desktop.vercel.app/)  
-**Live Demo:** [Try Web Demo](https://python-notebook-compiler.vercel.app/)  
-**Download / Setup:** [Setup Link](https://github.com/SKT1803/pylab-installer/releases/tag/pylab-v1.1.1)
+
+**Links:** 
+[Website](https://pylab-desktop.vercel.app/) · 
+[Live Demo](https://python-notebook-compiler.vercel.app/) · 
+[Download / Setup](https://github.com/SKT1803/pylab-installer/releases/tag/pylab-v1.1.1)
 
 <table>
   <tr>

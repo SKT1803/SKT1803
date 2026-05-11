@@ -36,7 +36,7 @@ I enjoy:
 
 <table>
   <tr>
-    <td width="30%" valign="middle">
+    <td width="35%" valign="middle">
 
 <p align="center">
   Take a closer look at my projects, ideas, and work through my portfolio website.

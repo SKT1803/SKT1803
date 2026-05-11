@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/github-banner.gif" alt="GitHub Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Serdar Kemal Topkaya  
 
 <p> Software Engineer<br/> Full Stack Developer | Machine Learning &amp; AI Enthusiast </p>

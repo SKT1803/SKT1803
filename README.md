@@ -161,6 +161,11 @@ I enjoy:
   </tr>
 </table>
 
+## Technical Skills
+
+<p align="center">
+  <img src="images/coding-hello-world-skills-circle.gif" alt="Technical Skills" width="760"/>
+</p>
 
 ## Featured Project
 

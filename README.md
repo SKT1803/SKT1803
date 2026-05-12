@@ -31,7 +31,15 @@ I enjoy:
 
 <table>
   <tr>
-    <td width="35%" valign="middle">
+
+   </td>
+    <td width="65%" valign="top">
+      <a href="https://serdarkemaltopkaya.vercel.app/">
+        <img src="images/portfolio-from-video-900w.gif" alt="Portfolio Preview" width="100%" />
+      </a>
+  </td>
+  
+  <td width="35%" valign="middle">
 
 <p align="center">
   Take a closer look at my projects, ideas, and work through my portfolio website.
@@ -45,12 +53,7 @@ I enjoy:
   <sub>✦ ──</sub>
 </h3>
 
-   </td>
-    <td width="65%" valign="top">
-      <a href="https://serdarkemaltopkaya.vercel.app/">
-        <img src="images/portfolio-from-video-900w.gif" alt="Portfolio Preview" width="100%" />
-      </a>
-    </td>
+   
   </tr>
 </table>
 
@@ -61,7 +64,7 @@ I enjoy:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serdar-kemal-topkaya-aaaa12359/)
 
 
-
+<!--
 ## Technical Skills
 
 **Languages**
@@ -106,61 +109,7 @@ I enjoy:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Oracle Linux](https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge)
 
-
-
-## Technical Skills
-
-<table>
-  <tr>
-    </td>
-      <td width="42%" valign="top" align="center">
-      <img src="images/coding-hello-world-direct-vertical.gif" alt="Coding GIF" width="370"/>
-    </td>
-
-  <td width="58%" valign="top">
-
-  <strong>Languages</strong><br><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  
-  
-  <strong>Frontend</strong><br><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></br>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  
-  
-  
-  <strong>Backend</strong><br><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  
-  
-  
-  <strong>Machine Learning & Data Science</strong><br><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  
-  
-  
-  <strong>Databases</strong><br><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  
-  <strong>DevOps & OS</strong><br><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge" />
-
-  </tr>
-</table>
-
+-->
 
 ## Technical Skills
 
@@ -217,11 +166,6 @@ I enjoy:
   </tr>
 </table>
 
-## Technical Skills
-
-<p align="center">
-  <img src="images/coding-hello-world-skills-circle.gif" alt="Technical Skills" width="760"/>
-</p>
 
 ## Featured Project
 

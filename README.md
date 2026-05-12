@@ -116,7 +116,6 @@ I enjoy:
 <table>
   <tr>
   
-
   <td width="58%" valign="top">
 
   <strong>Languages</strong><br><br>
@@ -163,60 +162,6 @@ I enjoy:
       <img src="images/coding-hello-world-direct-vertical.gif" alt="Coding GIF" width="370"/>
     </td>
     
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="56%" valign="top">
-
-<strong>Languages</strong><br><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-<br><br>
-
-<strong>Frontend</strong><br><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-<br><br>
-
-<strong>Backend</strong><br><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-
-<br><br>
-
-<strong>Machine Learning & Data Science</strong><br><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-<br><br>
-
-<strong>Databases</strong><br><br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br><br>
-
-<strong>DevOps & OS</strong><br><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge" />
-
-   </td>
-    <td width="44%" valign="middle" align="center">
-      <img src="images/coding-hello-world-direct-vertical.gif" alt="Coding GIF" width="360"/>
-  </td>
   </tr>
 </table>
 

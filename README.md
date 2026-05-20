@@ -192,7 +192,7 @@ Real time chatting application where you can choose your reply to your contact's
 -->
 
 
-### [PyLab - A Modern Desktop Python Notebook IDE](https://pylab-desktop.vercel.app/) 
+### [PyLab - A Modern Desktop Python Notebook IDE](https://getpylab.com/) 
 Lightweight notebook-style Python runner for Python learning and data science, allowing users to write code cells, add Markdown comments and images, upload files, and execute code inside isolated Docker containers with real-time output streaming. Also available as a desktop application.
 
 <!--
@@ -200,7 +200,7 @@ Lightweight notebook-style Python runner for Python learning and data science, a
 -->
 
 **Links:** 
-[Website](https://pylab-desktop.vercel.app/) · 
+[Website](https://getpylab.com/) · 
 [Live Demo](https://python-notebook-compiler.vercel.app/) · 
 [Download / Setup](https://github.com/SKT1803/pylab-installer/releases/tag/pylab-v1.1.1)
 

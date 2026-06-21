@@ -202,7 +202,7 @@ Lightweight notebook-style Python runner for Python learning and data science, a
 **Links:** 
 [Website](https://getpylab.com/) · 
 [Live Demo](https://python-notebook-compiler.vercel.app/) · 
-[Download / Setup](https://github.com/SKT1803/pylab-installer/releases/tag/pylab-v1.1.1)
+[Download / Setup](https://github.com/SKT1803/pylab-installer/releases/latest)
 
 <table>
   <tr>
